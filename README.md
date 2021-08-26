@@ -1,6 +1,6 @@
 # Hi there, I'm [Vatsal Arya][website] 👋
 [![Website](https://img.shields.io/website?label=Portfolio%20Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vatsalarya.github.io/portfolio/)
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalarya&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalarya" height="28"/> </p>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalarya&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalarya" height="28"/> </span>
 
 ## I'm a Full Stack Web Developer, Competitive Coder.
 
@@ -26,9 +26,9 @@
 <!-- Projects:END -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalarya&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="vatsalarya" /></p>
+<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalarya&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="vatsalarya" /></span>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsalarya&show_icons=true&locale=en&theme=material-palenight" alt="vatsalarya" /></p>
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsalarya&show_icons=true&locale=en&theme=material-palenight" alt="vatsalarya" /></span>
 
 [website]: https://vatsalarya.github.io/portfolio/
 
