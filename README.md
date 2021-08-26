@@ -1,6 +1,6 @@
 # Hi there, I'm [Vatsal Arya][website] 👋
 [![Website](https://img.shields.io/website?label=Portfolio%20Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vatsalarya.github.io/portfolio/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalarya&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalarya" /> </p>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalarya&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalarya" height="28"/> </p>
 
 ## I'm a Full Stack Web Developer, Competitive Coder.
 
