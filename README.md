@@ -4,9 +4,8 @@
 
 ## I'm a Full Stack Web Developer, Competitive Coder.
 
-- 🔭 I’m currently learning iOS App Development.
 - 👯 I’m looking for internship in Web Development
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vatsal-arya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vatsal-arya" height="30" width="40" /></a>
